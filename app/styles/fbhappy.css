@@ -1,0 +1,7 @@
+._3el2 div div, .fbBoostedPostTimelineFooter span button {
+    display: none !important;
+}
+.fbBoostedPostTimelineFooter span:before {
+    content:"YOU'RE DOING A GREAT JOB!";
+    font-size:11px;
+}
